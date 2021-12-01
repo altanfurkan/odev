@@ -169,3 +169,5 @@ function friendNumber(sayi1, sayi2){
 friendNumber(1184, 1210)
 
 //adsadsadas
+
+7747
